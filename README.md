@@ -1,6 +1,6 @@
 - Hi, I’m @Vevevo
-- I’m currently re-learning spatial analysis
-- Most of my coding experience in R is doing simple stats and plotting graphs, sometimes I need to loop the work🤔. 
+- Learning to use R.
+- Most of my coding experience in R is doing simple stats and plotting graphs, sometimes I need to loop the work. 
 
 
 <!---
